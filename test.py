@@ -1,3 +1,3 @@
-print('hhhh hello world!')
-prk
-ww1121
+print('hello world!')
+prssqlk
+print('ww112')
